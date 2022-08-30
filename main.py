@@ -1,8 +1,9 @@
-import requests, bs4, re, urllib
+import requests
+import bs4
+import urllib.request
+import os
 
-alt_cover = ["", "B", "C"]
-
-# alcuni albi hanno una o più copertine alternative, contrassegnate da una B o una C alla fine del numero dell'albo
+domain_name = "https://inducks.org/"
 
 res = requests.get("https://inducks.org/country.php?c=it")
 res.raise_for_status()
@@ -14,29 +15,34 @@ link_testate = []
 nomi_testate = []
 
 for i in testate:
-    link_testate.append("https://inducks.org/" + i.attrs["href"])
-    nomi_testate.append(i.getText())
+    link_testate.append(domain_name + i.attrs["href"])
+    nomi_testate.append(i.getText().replace("?", "").replace("/", "").replace(":", "").replace('"', '')
+                        .replace(".", ""))
+
+counter = 0
 
 for i in link_testate:
     res = requests.get(i)
     res.raise_for_status()
     soup = bs4.BeautifulSoup(res.text, features="lxml")
 
-    codice_testata = re.sub(re.compile(r".*?2F"), "", i)
-    issues = soup.findAll("a", {"href": re.compile(r"issue.php.*?")})  # trova tutti i tag che contengono gli albi
+    print(nomi_testate[counter] + "...")
 
-    last_issue_number = re.sub("[^0-9]", "", issues[-1].getText())
-    last_issue_number_digits = len(str(last_issue_number))
+    tag_albi = soup.select("a[href^='issue.php']")
 
-    for j in range(1, int(last_issue_number) + 1):
-        for k in alt_cover:
-            issue_url = "https://inducks.org/issue.php?c=it%2F" + codice_testata + \
-                        str(j).rjust(7-len(codice_testata), "+") + k  # left padding
-                        # ipotesi che totale caratteri URL sia 7, non sempre verificata
-            res = requests.get(issue_url)
-            res.raise_for_status()
-            soup = bs4.BeautifulSoup(res.text, features="lxml")
-            cover_elem = soup.select("figcaption a")
-            if cover_elem:
-                cover_url = "https://inducks.org/" + cover_elem[0].attrs["href"]
-                urllib.request.urlretrieve(cover_url, "copertine/" + str(j) + k + ".jpg")
+    for j in tag_albi:
+        issue_url = domain_name + j.attrs["href"]
+        res = requests.get(issue_url)
+        res.raise_for_status()
+        soup = bs4.BeautifulSoup(res.text, features="lxml")
+        issue_number = issue_url.split("%2F")[-1].replace("+", "")
+        cover_elem = soup.select("figcaption a")
+        if cover_elem:
+            cover_url = domain_name + cover_elem[0].attrs["href"]
+            directory = "copertine/" + nomi_testate[counter]
+            path = "copertine/" + nomi_testate[counter] + "/" + issue_number + ".jpg"
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            if not os.path.exists(path):
+                urllib.request.urlretrieve(cover_url, path)
+    counter = counter + 1
