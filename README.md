@@ -2,7 +2,7 @@
 
 # italian-disney-comics-covers
 
-This Python script scrapes data from Inducks (the most important Disney comics database) to get the covers of all of the Italian Disney publications.
+This Python script scrapes data from [Inducks](https://inducks.org/) (the most important Disney comics database) to get the covers of all of the Italian Disney publications.
 
 Each publication gets its own folder, inside which the covers of the individual issues are saved and named with a combination of the code of the publication and the number of the issue.
 
