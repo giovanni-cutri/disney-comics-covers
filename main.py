@@ -16,6 +16,11 @@ country_list = soup.select(".countryList a")
 countries = []
 country_codes = []
 
+try:
+    os.makedirs("resources")
+except OSError:
+    pass
+
 with open("resources/country-codes.txt", "w") as f:
     for i in country_list:
         country = i.getText()
