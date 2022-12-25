@@ -29,6 +29,7 @@ disney-comics-covers [country]
 ```
 
 Replace *country* with the code of the country you want to download the publications of.
+
 Type ```--help``` for further details.
 
 
