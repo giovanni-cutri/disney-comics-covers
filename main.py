@@ -73,8 +73,8 @@ for i in link_testate:
         cover_elem = soup.select("figcaption a")
         if cover_elem:
             cover_url = domain_name + cover_elem[0].attrs["href"]
-            directory = "covers/" + nomi_testate[counter]
-            path = "covers/" + nomi_testate[counter] + "/" + issue_number + ".jpg"
+            directory = country + "-covers/" + nomi_testate[counter]
+            path = country + "-covers/" + nomi_testate[counter] + "/" + issue_number + ".jpg"
             if not os.path.exists(directory):
                 os.makedirs(directory)
             if not os.path.exists(path):
