@@ -1,6 +1,6 @@
-![Socialify](https://github.com/giovanni-cutri/italian-disney-comics-covers/blob/main/resources/socialify-logo.png)
+![Socialify](https://github.com/giovanni-cutri/disney-comics-covers/blob/main/resources/socialify-logo.png)
 
-# italian-disney-comics-covers
+# disney-comics-covers
 
 This Python script scrapes data from [Inducks](https://inducks.org/) (the most important Disney comics database) to get the covers of all Disney publications of the country chosen by the user.
 
@@ -21,6 +21,16 @@ You can install them by running:
 ```
 pip install -r requirements.txt
 ```
+
+## Usage
+
+```
+disney-comics-covers [country]
+```
+
+Replace ''country'' with the code of the country you want to download the publications of.
+Type ```--help``` for further details.
+
 
 ## License
 
