@@ -16,7 +16,7 @@ country_list = soup.select(".countryList a")
 countries = []
 country_codes = []
 
-with open("resources/country-codes.txt", "a") as f:
+with open("resources/country-codes.txt", "w") as f:
     for i in country_list:
         country = i.getText()
         countries.append(country)
