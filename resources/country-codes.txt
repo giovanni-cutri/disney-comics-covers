@@ -1,0 +1,888 @@
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
+             Albania   al
+       Faroe Islands   fo
+           Lithuania   lt
+            Slovenia   si
+             Algeria   dz
+             Finland   fi
+          Luxembourg   lu
+        South Africa   za
+           Argentina   ar
+              France   fr
+            Malaysia   my
+         South Korea   kr
+           Australia   au
+             Germany   de
+              Mexico   mx
+               Spain   es
+             Austria   at
+              Greece   gr
+            Mongolia   mn
+              Sweden   se
+             Belarus   by
+              Guyana   gy
+             Morocco   ma
+         Switzerland   ch
+             Belgium   be
+           Hong Kong   hk
+         Netherlands   nl
+        Taiwan (ROC)   tw
+              Brazil   br
+             Hungary   hu
+         New Zealand   nz
+            Thailand   th
+            Bulgaria   bg
+             Iceland   is
+     North Macedonia   mk
+             Tunisia   tn
+              Canada   ca
+               India   in
+              Norway   no
+              Turkey   tr
+               Chile   cl
+           Indonesia   id
+         Philippines   ph
+             Ukraine   ua
+               China   cn
+                Iran   ir
+              Poland   pl
+United Arab Emirates   ae
+            Colombia   co
+             Ireland   ie
+            Portugal   pt
+      United Kingdom   uk
+             Croatia   hr
+              Israel   il
+             Romania   ro
+       United States   us
+             Czechia   cz
+               Italy   it
+              Russia   ru
+           Venezuela   ve
+             Denmark   dk
+               Japan   jp
+        Saudi Arabia   sa
+             Vietnam   vn
+      Digital comics   dc
+              Kuwait   kw
+              Serbia   rs
+          Yugoslavia   yu
+               Egypt   eg
+              Latvia   lv
+           Singapore   sg
+             Estonia   ee
+             Lebanon   lb
+            Slovakia   sk
