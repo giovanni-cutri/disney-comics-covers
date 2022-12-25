@@ -10,7 +10,7 @@ Each publication gets its own folder, inside which the covers of the individual 
 
 You can install the tool by downloading the release binary (currently available only for Windows):
 
-[issuu-dl.exe](https://github.com/giovanni-cutri/italian-disney-comics-covers/releases/download/first/disney-comics-covers.exe)
+[disney-comics-covers.exe](https://github.com/giovanni-cutri/italian-disney-comics-covers/releases/download/first/disney-comics-covers.exe)
 
 ## Dependencies
 
@@ -36,4 +36,3 @@ Type ```--help``` for further details.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/giovanni-cutri/italian-disney-comics-covers/blob/main/LICENSE) file for details.
-
