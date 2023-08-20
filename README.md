@@ -1,5 +1,3 @@
-![Socialify](https://github.com/giovanni-cutri/disney-comics-covers/blob/main/resources/socialify-logo.png)
-
 # disney-comics-covers
 
 This Python script scrapes data from [Inducks](https://inducks.org/) (the most important Disney comics database) to get the covers of all Disney publications of the country chosen by the user.
